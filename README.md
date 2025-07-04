@@ -1,4 +1,7 @@
 <div align="center">
+
+# ${\textsf{\color{darkred}'' APOSTATE OF HATE ,,}}$
+  
 <img src="https://github.com/user-attachments/assets/36cf4180-8310-4ea4-9359-2d49c1984ed3" width="70%" height="50%"> 
   
 ![](https://komarev.com/ghpvc/?username=4ykai&color=c10f37&style=plastic&label=MORTALS) 
@@ -9,6 +12,7 @@ ${\textsf{\color{red}"MAY YOUR WOES BE MANY AND YOUR DAYS FEW."}}$
 
 ${\textsf{\color{black}"FOOLISHNESS, MACHINE. FOOLISHNESS."}}$
 
+---
 
 ${\textsf{\color{darkred}STRAWPAGE -}}$<a href="https://v1ultra.straw.page"><img src="https://64.media.tumblr.com/133274a592665cb74e3c7c4e3f96dff7/0f1dd797b5574c42-33/s75x75_c1/c65153a27ff202eb0d4cd0a70310d5ca8f4bf795.gifv"> 
 
