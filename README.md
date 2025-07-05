@@ -16,4 +16,3 @@ ${\textsf{\color{black}"FOOLISHNESS, MACHINE. FOOLISHNESS."}}$
 
 ${\textsf{\color{darkred}STRAWPAGE -}}$<a href="https://v1ultra.straw.page"><img src="https://64.media.tumblr.com/133274a592665cb74e3c7c4e3f96dff7/0f1dd797b5574c42-33/s75x75_c1/c65153a27ff202eb0d4cd0a70310d5ca8f4bf795.gifv"> 
 
-${\textsf{\color{darkred}ATABOOK -}}$<a href="https://4yokai.atabook.org/"><img src="https://64.media.tumblr.com/e93d2e996b768ded5a03cd9971258051/0f1dd797b5574c42-48/s75x75_c1/9612acd993be4ee33f2acb225e6d4afac79292a3.gifv">
